@@ -2,3 +2,6 @@
 <h2> How to deploy to tomcat server </h2>
 
 <h2> this is one way to deploy tomcat server </h2>
+
+
+<h2> this is one way to deploy Docker container by using ansible server </h2>
