@@ -5,3 +5,6 @@
 
 <h2> by the next commit i will display any image for sure</h2>
 <h2> CICD Successful </h2>
+
+
+<h2> configuring jenkins with ansible, Dockerhub and Docker is Successfull </h2>
