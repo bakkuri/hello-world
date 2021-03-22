@@ -4,5 +4,4 @@
 <h2> Afterwards we learnt CICD</h2>
 <h2> CICD Successful </h2>
 
-
 <h2> Finally we configuring jenkins with ansible, Dockerhub and Docker is Successfull </h2>
